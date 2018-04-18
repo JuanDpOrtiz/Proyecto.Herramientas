@@ -295,7 +295,7 @@ def haceClick(x,y):
                                                                                                         C = A % B
                                                                                                     
                                                                             turtle.write(C, font=("arial",25,"normal"))
-                                                                                
+              Holi                                                                  
                           
 
 def calculadora():
